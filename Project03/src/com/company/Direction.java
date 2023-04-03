@@ -1,0 +1,19 @@
+package com.company;
+
+public enum Direction {
+    LEFT_STANDING,
+    RIGHT_STANDING,
+    RIGHT_RUNNING,
+    LEFT_RUNNING,
+    UP_RIGHT,
+    UP_LEFT,
+    UP_LADDER_STANDING,
+    UP_LADDER_MOVING,
+    DOWN_LADDER_STANDING,
+    DOWN_LADDER_MOVING,
+    DOWN,
+    BARREL_RIGHT,
+    BARREL_LEFT,
+    FIRE_RIGHT,
+    FIRE_LEFT,
+}
